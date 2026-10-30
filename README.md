@@ -35,4 +35,4 @@ Me gusta construir aplicaciones completas de punta a punta: desde el backend y l
 ## 📫 Contacto
 
 - 💼 LinkedIn: _pendiente_
-- 🌐 Portafolio: _próximamente_
+- 🌐 Portafolio: [marcovinir.github.io](https://marcovinir.github.io)
