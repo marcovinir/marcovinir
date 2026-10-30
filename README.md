@@ -16,7 +16,7 @@ Me gusta construir aplicaciones completas de punta a punta: desde el backend y l
 
 **Pruebas:** Vitest · Playwright
 
-**Escritorio y juegos:** Electron · WinForms · Godot 4
+**Escritorio y juegos:** Electron · WinForms
 
 **Cloud y despliegue:** Azure · Render · GitHub Actions
 
