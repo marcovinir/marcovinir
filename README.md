@@ -38,5 +38,5 @@ Me gusta construir aplicaciones completas de punta a punta: desde el backend y l
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: _pendiente_
+- 💼 LinkedIn: [Marco Vinicio Rojas Peña](https://www.linkedin.com/in/marco-vinicio-rojas-pe%C3%B1a-89497a416/)
 - 🌐 Portafolio: [marcovinir.dev](https://marcovinir.dev)
