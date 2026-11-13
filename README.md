@@ -30,6 +30,7 @@ Me gusta construir aplicaciones completas de punta a punta: desde el backend y l
 |---|---|---|
 | [**Rivalmon**](https://github.com/marcovinir/rivalmon) · [Jugar](https://rivalmon.marcovinir.dev) | Minijuegos Pokémon multijugador 1 vs 1 en tiempo real, con pruebas y desplegado en Render | React · TypeScript · Socket.io · Express · Prisma · PostgreSQL |
 | [**OraAdmin XE**](https://github.com/marcovinir/oraadmin-xe) | Consola DBA de escritorio para Oracle 21c XE: tablespaces, tuning, auditoría, seguridad y respaldos con Data Pump | C# · WinForms · .NET 8 · Oracle |
+| [**Coffee Tour Finca Zagala Nueva**](https://zagala.marcovinir.dev) | Tienda de café y reservas de visitas para una finca familiar (código privado) | React · TypeScript · Vite · Spring Boot · PostgreSQL |
 | [**Gym-LACOBRA**](https://github.com/You9123/Gym-LACOBRA) | App web para la gestión de un gimnasio (proyecto en equipo, colaborador) | React · TypeScript · Vite · Django REST Framework · Oracle |
 
 ## 📫 Contacto
