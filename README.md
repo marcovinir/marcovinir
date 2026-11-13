@@ -24,7 +24,7 @@ Me gusta construir aplicaciones completas de punta a punta: desde el backend y l
 
 ## 🔨 En desarrollo
 
-**SIRA**: Sistema de Reportes de Avería para la [Municipalidad de Montes de Oro](https://munimontesdeoro.go.cr/). Soy desarrollador full-stack en un equipo Scrum (Azure DevOps): desarrollo historias de usuario completas, del backend al frontend, con Django y React + TypeScript, y hago los despliegues del entorno de desarrollo por SSH en AWS (EC2 y RDS). El código es privado.
+**SIRA**: Sistema de Reportes de Avería para una institución pública. Soy desarrollador full-stack en un equipo Scrum (Azure DevOps): desarrollo historias de usuario completas, del backend al frontend, con Django y React + TypeScript, y hago los despliegues del entorno de desarrollo por SSH en AWS (EC2 y RDS). El código es privado.
 
 ## 🚀 Proyectos destacados
 
